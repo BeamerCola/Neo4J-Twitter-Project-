@@ -752,3 +752,8 @@ Caused by: java.nio.file.NoSuchFileException: /Users/mrudulavysyaraju/Desktop/tw
 2017-02-24 19:45:19.227+0000 INFO  Bolt enabled on localhost:7472.
 2017-02-24 19:45:24.245+0000 INFO  Started.
 2017-02-24 19:45:26.420+0000 INFO  Remote interface available at http://localhost:7474/
+2017-02-25 02:32:45.953+0000 INFO  Neo4j Server shutdown initiated by request
+2017-02-27 05:34:19.656+0000 INFO  Starting...
+2017-02-27 05:34:20.988+0000 INFO  Bolt enabled on localhost:7472.
+2017-02-27 05:34:25.178+0000 INFO  Started.
+2017-02-27 05:34:26.591+0000 INFO  Remote interface available at http://localhost:7474/
