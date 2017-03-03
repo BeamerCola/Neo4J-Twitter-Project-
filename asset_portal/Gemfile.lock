@@ -40,6 +40,9 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
+    algorithmia (1.0.0)
+      httparty (~> 0.13)
+      json (~> 1.8)
     arel (7.1.4)
     buftok (0.2.0)
     builder (3.2.3)
@@ -78,6 +81,8 @@ GEM
       domain_name (~> 0.5)
     http-form_data (1.0.1)
     http_parser.rb (0.6.0)
+    httparty (0.14.0)
+      multi_xml (>= 0.5.2)
     httpclient (2.8.3)
     i18n (0.8.1)
     jbuilder (2.6.3)
@@ -104,6 +109,7 @@ GEM
     mini_portile2 (2.1.0)
     minitest (5.10.1)
     multi_json (1.12.1)
+    multi_xml (0.6.0)
     multipart-post (2.0.0)
     naught (1.1.0)
     neo4j (8.0.7)
@@ -225,10 +231,12 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  algorithmia
   byebug
   coffee-rails (~> 4.2)
   jbuilder (~> 2.5)
   jquery-rails
+  json
   listen (~> 3.0.5)
   neo4j (~> 8.0.0)
   puma (~> 3.0)

@@ -757,3 +757,7 @@ Caused by: java.nio.file.NoSuchFileException: /Users/mrudulavysyaraju/Desktop/tw
 2017-02-27 05:34:20.988+0000 INFO  Bolt enabled on localhost:7472.
 2017-02-27 05:34:25.178+0000 INFO  Started.
 2017-02-27 05:34:26.591+0000 INFO  Remote interface available at http://localhost:7474/
+2017-03-02 23:15:48.706+0000 INFO  Starting...
+2017-03-02 23:15:49.854+0000 INFO  Bolt enabled on localhost:7472.
+2017-03-02 23:15:54.688+0000 INFO  Started.
+2017-03-02 23:15:56.353+0000 INFO  Remote interface available at http://localhost:7474/
